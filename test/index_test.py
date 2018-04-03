@@ -1,7 +1,6 @@
 import unittest2 as unittest
-from twisted.trial import unittest
-from ipynb.fs.full.index import (name)
+from ipynb.fs.full.index import (travel_month, number_of_weeks)
 
 class TestVariables(unittest.TestCase):
-    def test_variables_intro(self):
-        self.assertEqual(name, 'bob')
+    def test_travel_month(self):
+        self.assertEqual(travel_month, 'January')
