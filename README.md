@@ -52,3 +52,5 @@ Now that's more like it.
 ### Summary
 
 Great! In this lab, we were able to get a sense how to store information in variables through assignment and reassignment.
+
+This is just the test.
